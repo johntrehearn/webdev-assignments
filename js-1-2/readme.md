@@ -15,6 +15,10 @@ as the course material asks. Upload the module folders to users.metropolia.fi an
 
 Add notes about any problems or extra features here.
 
+** Problems**
+
+- Number 11 is green on the extension but it is not updating the readme
+
 <!-- metropolia:progress:start -->
 
 ## Completed exercises

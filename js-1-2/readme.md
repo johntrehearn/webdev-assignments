@@ -7,8 +7,8 @@ as the course material asks. Upload the module folders to users.metropolia.fi an
 
 ## My links at users.metropolia.fi
 
-- HTML and CSS: https://users.metropolia.fi/~username/html-css/
-- JS modules 1 and 2: https://users.metropolia.fi/~username/js-1-2/
+- HTML and CSS: https://users.metropolia.fi/~johntr/
+- JS modules 1 and 2: https://users.metropolia.fi/~johntr/js-1-2/
 - JS module 3: https://users.metropolia.fi/~username/js-3/
 - JS module 4: https://users.metropolia.fi/~username/js-4/
 - JS module 5: https://users.metropolia.fi/~username/js-5/

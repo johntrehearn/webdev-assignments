@@ -1,1 +1,3 @@
+https://users.metropolia.fi/~johntr/js-1-2/
+
 https://github.com/johntrehearn/webdev-assignments

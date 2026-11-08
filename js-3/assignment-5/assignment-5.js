@@ -23,7 +23,8 @@ numbers.sort((a, b) => a - b);
 
 for (let j = 0; j < numbers.length; j++) {
 
-    console.log(numbers[j]);}
+    console.log(numbers[j]);
+}
 
 
 

@@ -21,7 +21,11 @@ Add notes about any problems or extra features here.
 
 _This list is updated automatically by the Metropolia ICT extension._
 
-### JS modules 1 and 2: Interactive programs and control structures (30 / 30 points)
+### HTML and CSS: company website (1 / 4 points)
+
+- 2. Get feedback from the HTML+CSS checker: ✔ completed, 1/1 test points (`html-css/`)
+
+### JS modules 1 and 2: Interactive programs and control structures (29.89 / 30 points)
 
 - 1. Print to the console: ✔ completed, 1/1 test points (`js-1-2/assignment-1/assignment-1.js`)
 - 2. Greeting: ✔ completed, 2/2 test points (`js-1-2/assignment-2/assignment-2.js`)
@@ -33,7 +37,7 @@ _This list is updated automatically by the Metropolia ICT extension._
 - 8. Leap years in a list: ✔ completed, 3/3 test points (`js-1-2/assignment-8/assignment-8.js`)
 - 9. Prime number: ✔ completed, 2/2 test points (`js-1-2/assignment-9/assignment-9.js`)
 - 10. Dice probability by simulation: ✔ completed, 5/5 test points (`js-1-2/assignment-10/assignment-10.js`)
-- 11. Publish, push and submit your links: ✔ completed, 3/3 test points
+- 11. Publish, push and submit your links: ◐ partially completed, 2.89/3 test points
 
 ### JS module 3: Arrays and functions (30 / 30 points)
 
@@ -49,7 +53,7 @@ _This list is updated automatically by the Metropolia ICT extension._
 - 10. Voting: ✔ completed, 8/8 test points (`js-3/assignment-10/assignment-10.js`)
 - 11. Publish, push and submit your links: ✔ completed, 3/3 test points
 
-### JS module 4: DOM and events (26 / 35 points)
+### JS module 4: DOM and events (29.89 / 35 points)
 
 - 1. Add a list with innerHTML: ✔ completed, 2/2 test points (`js-4/t1/1.js`)
 - 2. Add a list with createElement(): ✔ completed, 2/2 test points (`js-4/t2/2.js`)
@@ -61,5 +65,7 @@ _This list is updated automatically by the Metropolia ICT extension._
 - 8. Calculator: ✔ completed, 4/4 test points (`js-4/t8/8.js`)
 - 9. Calculator with one field: ✔ completed, 4/4 test points (`js-4/t9/9.js`)
 - 10. Read a form: ✔ completed, 2/2 test points (`js-4/t10/10.js`)
+- 11. Picture cards with a modal: ◐ partially completed, 1/6 test points (`js-4/t11/11.js`)
+- 12. Publish, push and submit your links: ◐ partially completed, 2.89/3 test points
 
 <!-- metropolia:progress:end -->

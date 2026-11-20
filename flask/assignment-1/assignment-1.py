@@ -9,8 +9,8 @@ def prime_number():
     if number1 > 1:
         isPrime = True
     for i in range(2, number1):
-        if number1 % i != 0:
-            isPrime = True
+        if number1 % i == 0:
+            isPrime = False
             break
     response = {
         "Number": number1,

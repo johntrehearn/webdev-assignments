@@ -5,4 +5,19 @@ app = Flask(__name__)
 def prime_number():
     args = request.args
     number1 = int(args.get("number1"))
-    if 
+    isPrime = False
+    if number1 > 1:
+        isPrime = True
+    for i in range(2, number1):
+        if number1 % i != 0:
+            isPrime = True
+            break
+    response = {
+        "Number": number1,
+        "isPrime": isPrime
+    }
+
+    return response
+
+if __name__ == '__main__':
+    app.run(use_reloader=True, host='127.0.0.1', port=5000)
